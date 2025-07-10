@@ -43,7 +43,7 @@ I'm a passionate **Software Quality Assurance Engineer** with expertise in both 
 
 ### 📫 Connect With Me
 
-- 🌐 [LinkedIn][([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/nabia-sharli-413180280)]
+- 🌐 [LinkedIn][([https://linkedin.com/in/nabia-sharli-413180280]
 - 📬 Email: nabia8256@gmail.com
 
 ---
