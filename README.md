@@ -8,7 +8,7 @@
 I'm a passionate **Software Quality Assurance Engineer** with expertise in both **manual testing** and **automated test development**. My goal is to deliver reliable, user-friendly software by ensuring rigorous test coverage and maintaining high-quality standards across the SDLC.
 
 - 🔍 Experienced in writing **test plans, test cases, exploratory testing**, and defect reporting
-- 🔭 Working on end-to-end **test automation frameworks** using **Selenium BDD)**
+- 🔭 Working on **test automation frameworks** using **Selenium BDD)**
 - 🤝 I enjoy collaborating across QA, Dev, and Product teams to catch bugs early and advocate for quality
 
 ---
